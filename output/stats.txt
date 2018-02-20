@@ -1,0 +1,4 @@
+#n_scaffolds	n_contigs	scaf_bp	contig_bp	gap_pct	scaf_N50	scaf_L50	ctg_N50	ctg_L50	scaf_N90	scaf_L90	ctg_N90	ctg_L90	scaf_max	ctg_max	scaf_n_gt50K	scaf_pct_gt50K	gc_avg	gc_std	filename
+6098	25484	295780872	238616307	19.327	21	897131	3400	18840	623	46455	13519	4180	33571687	226699	588	89.442	0.41712	0.06140	/Volumes/userdata/student_users/johnskelly/projects/genome_compare/genomes/GCA_000002325.2_Nvit_2.1_genomic.fa
+925	1475	187641947	186932826	0.378	33	1825723	91	573770	115	393825	366	117400	6217548	2574113	201	98.754	0.39842	0.06548	/Volumes/userdata/student_users/johnskelly/projects/genome_compare/genomes/GCA_000599845.3_Tpre_2.0_genomic.fa
+5644	16501	234070657	229105558	2.121	65	997192	1390	45688	299	113043	6229	6486	4736299	333433	411	93.755	0.32696	0.08620	/Volumes/userdata/student_users/johnskelly/projects/genome_compare/genomes/Amel_4.5_scaffolds.fa
